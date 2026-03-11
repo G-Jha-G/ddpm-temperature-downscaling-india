@@ -2,7 +2,7 @@
 
 Code for the paper:
 
-> Jha, S.K., Gupta, V., et al. (2026). *A Generative AI Framework for High-Fidelity Probabilistic Downscaling of CMIP6 Daily Temperature Projections over India.* Communications Earth & Environment. DOI: [INSERT PAPER DOI]
+> Jha, S.K., Gupta, V., et al. (2026). *Not published yet ;)
 
 ## What this repo contains
 
