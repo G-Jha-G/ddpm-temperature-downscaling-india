@@ -1,0 +1,29 @@
+# Climate Data & Gridded Datasets
+*.nc
+*.nc4
+*.tif
+*.tiff
+*.grib
+*.grb
+*.csv
+
+# Deep Learning Model Weights & Checkpoints
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Python Caches & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
