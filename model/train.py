@@ -11,11 +11,6 @@ Architecture:
     - DDIM sampling (50 steps) for fast inference
     - Gaussian patch stitching (128x128, stride 64) for artefact-free full-domain inference
 
-Reference:
-    Jha, S.K., Gupta, V., et al. (2026). A Generative AI Framework for High-Fidelity
-    Probabilistic Downscaling of CMIP6 Daily Temperature Projections over India.
-    Communications Earth & Environment.
-
 Usage:
     python train.py --gpu 0 --epochs 100 --batch-size 64
     python train.py --gpu 0 --epochs 100 --resume-checkpoint /path/to/checkpoint.pt

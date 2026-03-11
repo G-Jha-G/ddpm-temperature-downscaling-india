@@ -31,8 +31,6 @@ Supported models (Table 1 of paper):
     MPI-ESM1-2-HR, NorESM2-MM
 """
 
-# nohup python -u inference_cmip6.py > inference_cmip6.log 2>&1 &
-
 import os
 import sys
 import json
