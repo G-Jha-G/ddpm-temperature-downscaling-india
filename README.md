@@ -35,8 +35,7 @@ Code for the paper:
 
 All experiments ran on:
 - AMD EPYC 7742, 330 GB RAM
-- 2× NVIDIA RTX A5000, 24 GB VRAM each
-- Single GPU used for training and inference
+- NVIDIA RTX A5000, 24 GB VRAM GPU used for training and inference
 
 ## Setup
 
