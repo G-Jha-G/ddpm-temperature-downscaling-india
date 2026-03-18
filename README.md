@@ -29,7 +29,7 @@ Code for the paper:
 | MSWX 0.1° daily | Training reference + test target | http://www.gloh2o.org/mswx/ |
 | MSWX 1.0° (degraded) | Training input (synthetic) | Generated from MSWX via block averaging |
 | CMIP6 (10 models, QDM-corrected) | Inference input for projections | https://esgf-node.llnl.gov/ |
-| Downscaled dataset (output) | 0.1° daily, 2015–2100, 10 models × 3 SSPs | Zenodo: [INSERT DOI] |
+| Downscaled dataset (output) | 0.1° daily, 2015–2100, 10 models × 3 SSPs | Zenodo: https://github.com/G-Jha-G/ddpm-temperature-downscaling-india |
 
 ## Hardware
 
