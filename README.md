@@ -110,7 +110,7 @@ If you use this code, please cite:
   title     = {A Generative {AI} Framework for High-Fidelity Probabilistic Downscaling
                of {CMIP6} Daily Temperature Projections over India},
   author    = {Jha, Shailesh Kumar and Gupta, Vivek and others},
-  journal   = {Communications Earth \& Environment},
+  journal   = {*Not Published Yet},
   year      = {2026},
   doi       = {INSERT PAPER DOI}
 }
