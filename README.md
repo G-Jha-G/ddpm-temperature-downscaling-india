@@ -12,10 +12,6 @@ Code for the paper:
 | `inference/inference_synthetic.py` | Run inference on MSWX synthetic test period → Table 2, Table 3 |
 | `inference/inference_ensemble.py` | Generate probabilistic ensembles → Figure 8, Figure 9 |
 | `inference/inference_cmip6.py` | Apply model to all 10 CMIP6 models across SSPs → Figures 11–13, Supp. Table 6 |
-| `analysis/01_cmip6_historical_bias.ipynb` | CMIP6 historical evaluation → Figure 10, Supp. Tables 7A–C |
-| `analysis/02_seasonal_bias_maps.ipynb` | Seasonal bias maps → Figure 5, Figure 6 |
-| `analysis/03_case_studies_projections.ipynb` | Case studies + SSP projections → Figures 7, 11, 12, 13 |
-| `analysis/04_trend_analysis.ipynb` | IMD zone RMSE + trend analysis |
 
 ## Architecture
 
