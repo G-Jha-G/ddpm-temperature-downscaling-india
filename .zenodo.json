@@ -1,14 +1,13 @@
-{
-  "title": "DDPM Temperature Downscaling over India: code for Jha et al. (2026)",
-  "description": "Conditional denoising diffusion probabilistic model for 10x spatial downscaling of daily CMIP6 near-surface temperature over India, from 1.0 to 0.1 degree. Training, inference and analysis code.",
-  "license": "MIT",
-  "upload_type": "software",
   "creators": [
     {"name": "Jha, Shailesh Kumar",
      "affiliation": "Indian Institute of Technology Mandi",
      "orcid": "0009-0003-5470-2817"},
+    {"name": "Sharma, Priyank J.",
+     "affiliation": "Indian Institute of Technology Indore"},
+    {"name": "Mishra, Anurag",
+     "affiliation": "Regional Remote Sensing Centre North, National Remote Sensing Centre"},
+    {"name": "Joshi, Saksham",
+     "affiliation": "National Remote Sensing Centre"},
     {"name": "Gupta, Vivek",
      "affiliation": "Indian Institute of Technology Mandi"}
   ],
-  "keywords": ["downscaling", "CMIP6", "diffusion model", "temperature", "India"]
-}
