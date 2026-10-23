@@ -2,7 +2,10 @@
 
 Code for the paper:
 
-> Jha, S.K., Gupta, V., et al. (2026). *Not published yet ;)
+> > Jha, S. K., Gupta, V., Sharma, P. J., Mishra, A., & Joshi, S. (2026).
+> Diffusion-based Probabilistic Downscaling of Daily CMIP6 Temperature
+> Projections over India. Under review at *Earth and Space Science*
+> (MS# 2026EA005318-TR).
 
 ## What this repo contains
 
